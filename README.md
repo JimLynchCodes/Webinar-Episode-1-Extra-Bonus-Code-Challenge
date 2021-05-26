@@ -1,5 +1,7 @@
 # Webinar-Episode-1-Extra-Bonus-Code-Challenge
 
+<br/>
+
 _Assumes you're starting from a project that solves the code challenge from webinar episode 1._
 
 ## New Goals
@@ -13,3 +15,13 @@ _Assumes you're starting from a project that solves the code challenge from webi
  - Give users the ability to mint an ERC20 token and "own" the token.
 
  - Create a view function that returns ALL tokens on the blockchain and their owner.
+
+<br/>
+
+## TDD!
+
+Don't forget to work through it TDD style- _test first!_
+
+Good luck!
+
+<br/>
